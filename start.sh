@@ -1,0 +1,1 @@
+docker build -t richasdy/docker-oracle-xe-11g .
